@@ -31,7 +31,7 @@ I'm a student focused on building a solid foundation in software development whi
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" width="415" />
+  <img src="https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" width="615" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=victorrmorenoo&layout=donut&langs_count=5&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=victorrmorenoo&layout=donut&langs_count=5&theme=github_dark" height="200"/>
 </p>
 
