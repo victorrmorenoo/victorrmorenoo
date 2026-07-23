@@ -1,4 +1,4 @@
-# Hi, I'm Victor 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2500&pause=2000&color=F7F7F7&width=435&lines=Hi,+I'm+Victor+👋)](https://git.io/typing-svg)
 
 🎓 Systems Analysis and Development (ADS) student at UNISENAI
 💻 Learning Java development through hands-on projects
@@ -6,7 +6,7 @@
 
 ---
 
-### About Me
+### About me
 
 I'm a student focused on building a solid foundation in software development while working on practical, real-world projects. My main interests right now are Java, databases, and understanding how systems connect — from application code to network infrastructure.
 
@@ -30,10 +30,10 @@ I'm a student focused on building a solid foundation in software development whi
 ---
 
 ### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorrmorenoo&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="Victor's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrmorenoo&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" width="515" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=victorrmorenoo&layout=donut&langs_count=5&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=victorrmorenoo&layout=donut&langs_count=5&theme=github_dark" height="300"/>
 </p>
 
 ---
