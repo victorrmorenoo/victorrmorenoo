@@ -1,19 +1,19 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2500&pause=2000&color=F7F7F7&width=435&lines=Hi,+I'm+Victor+👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2500&pause=2000&color=F7F7F7&width=435&lines=Olá!+Me+chamo+Victor+👋)](https://git.io/typing-svg)
 
-🎓 Systems Analysis and Development (ADS) student at UNISENAI
-💻 Learning Java development through hands-on projects
-📶 Also exploring networking fundamentals (VLANs, routing, Cisco Packet Tracer)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNISENAI.
+💻 Focado em desenvolvimento **Java** e na construção de projetos práticos e funcionais.
+📈Atualmente aprimorando minhas habilidades em programação orientada a objetos, bancos de dados e arquitetura de software — sempre buscando escrever um código mais limpo e eficiente.
 
 ---
 
-### About me
+### Sobre mim
 
-I'm a student focused on building a solid foundation in software development while working on practical, real-world projects. My main interests right now are Java, databases, and understanding how systems connect — from application code to network infrastructure.
+Sou um estudante focado em construir uma base sólida em desenvolvimento de software através de projetos práticos e reais. Meus principais interesses no momento são Java, bancos de dados e arquitetura de software.
 
-- 🔭 Currently building small full-stack and utility projects to practice what I learn
-- 🌱 Deepening my Java skills (OOP, JDBC, IntelliJ debugging)
-- 🌐 Studying networking concepts alongside development
-- 💬 Ask me about Java, MySQL, or Linux desktop customization
+
+- 🔭 Atualmente construindo projetos para praticar o que aprendo
+- 🌱 Aprofundando minhas habilidades em Java (POO, JDBC, debugging no IntelliJ)
+- 📚 Comprometido com o aprendizado contínuo e a melhoria constante das minhas habilidades técnicas
 
 ---
 
@@ -39,7 +39,7 @@ I'm a student focused on building a solid foundation in software development whi
 
 ---
 
-### Contact
+### Contato
 <div>
 <a href="https://instagram.com/morenooviictorr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:victoormorenoo20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
