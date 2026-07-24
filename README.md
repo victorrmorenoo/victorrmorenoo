@@ -34,8 +34,8 @@ Sou um estudante focado em construir uma base sólida em desenvolvimento de soft
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" width="475" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=victorrmorenoo&layout=donut&langs_count=5&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=victorrmorenoo&layout=donut&langs_count=5&theme=github_dark" height="200"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=victorrmorenoo&rank_icon=github&include_all_commits=true&theme=github_dark" width="475" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=victorrmorenoo&layout=donut&langs_count=4&theme=github_dark" height="206"/>
 </p>
 
 ---
